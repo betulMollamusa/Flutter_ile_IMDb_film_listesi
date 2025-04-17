@@ -1,0 +1,1502 @@
+[
+  {
+    "Movie": "The Shawshank Redemption",
+    "Released_year": 1994,
+    "Rating": "9.3",
+    "Director": "Frank Darabont"
+  },
+  {
+    "Movie": "The Godfather",
+    "Released_year": 1972,
+    "Rating": "9.2",
+    "Director": "Francis Ford Coppola"
+  },
+  {
+    "Movie": "The Godfather: Part II",
+    "Released_year": 1974,
+    "Rating": "9.0",
+    "Director": "Francis Ford Coppola"
+  },
+  {
+    "Movie": "The Dark Knight",
+    "Released_year": 2008,
+    "Rating": "9.0",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "12 Angry Men",
+    "Released_year": 1957,
+    "Rating": "8.9",
+    "Director": "Sidney Lumet"
+  },
+  {
+    "Movie": "Schindler's List",
+    "Released_year": 1993,
+    "Rating": "8.9",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Movie": "The Lord of the Rings: The Return of the King",
+    "Released_year": 2003,
+    "Rating": "8.9",
+    "Director": "Peter Jackson"
+  },
+  {
+    "Movie": "Pulp Fiction",
+    "Released_year": 1994,
+    "Rating": "8.9",
+    "Director": "Quentin Tarantino"
+  },
+  {
+    "Movie": "The Good, the Bad and the Ugly",
+    "Released_year": 1966,
+    "Rating": "8.9",
+    "Director": "Sergio Leone"
+  },
+  {
+    "Movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "Released_year": 2001,
+    "Rating": "8.8",
+    "Director": "Peter Jackson"
+  },
+  {
+    "Movie": "Fight Club",
+    "Released_year": 1999,
+    "Rating": "8.8",
+    "Director": "David Fincher"
+  },
+  {
+    "Movie": "Forrest Gump",
+    "Released_year": 1994,
+    "Rating": "8.8",
+    "Director": "Robert Zemeckis"
+  },
+  {
+    "Movie": "Inception",
+    "Released_year": 2010,
+    "Rating": "8.8",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "The Lord of the Rings: The Two Towers",
+    "Released_year": 2002,
+    "Rating": "8.7",
+    "Director": "Peter Jackson"
+  },
+  {
+    "Movie": "The Empire Strikes Back",
+    "Released_year": 1980,
+    "Rating": "8.8",
+    "Director": "Irvin Kershner"
+  },
+  {
+    "Movie": "The Matrix",
+    "Released_year": 1999,
+    "Rating": "8.7",
+    "Director": "Lana Wachowski"
+  },
+  {
+    "Movie": "GoodFellas",
+    "Released_year": 1990,
+    "Rating": "8.7",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "One Flew Over the Cuckoo's Nest",
+    "Released_year": 1975,
+    "Rating": "8.7",
+    "Director": "Miloš Forman"
+  },
+  {
+    "Movie": "Seven Samurai",
+    "Released_year": 1954,
+    "Rating": "8.6",
+    "Director": "Akira Kurosawa"
+  },
+  {
+    "Movie": "Se7en",
+    "Released_year": 1995,
+    "Rating": "8.6",
+    "Director": "David Fincher"
+  },
+  {
+    "Movie": "Life Is Beautiful",
+    "Released_year": 1997,
+    "Rating": "8.6",
+    "Director": "Roberto Benigni"
+  },
+  {
+    "Movie": "City of God",
+    "Released_year": 2002,
+    "Rating": "8.6",
+    "Director": "Fernando Meirelles"
+  },
+  {
+    "Movie": "The Silence of the Lambs",
+    "Released_year": 1991,
+    "Rating": "8.6",
+    "Director": "Jonathan Demme"
+  },
+  {
+    "Movie": "It's a Wonderful Life",
+    "Released_year": 1946,
+    "Rating": "8.6",
+    "Director": "Frank Capra"
+  },
+  {
+    "Movie": "Star Wars",
+    "Released_year": 1977,
+    "Rating": "8.6",
+    "Director": "George Lucas"
+  },
+  {
+    "Movie": "Saving Private Ryan",
+    "Released_year": 1998,
+    "Rating": "8.6",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Movie": "The Green Mile",
+    "Released_year": 1999,
+    "Rating": "8.5",
+    "Director": "Frank Darabont"
+  },
+  {
+    "Movie": "Spirited Away",
+    "Released_year": 2001,
+    "Rating": "8.6",
+    "Director": "Hayao Miyazaki"
+  },
+  {
+    "Movie": "Interstellar",
+    "Released_year": 2014,
+    "Rating": "8.6",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "Parasite",
+    "Released_year": 2019,
+    "Rating": "Bong Joon-ho",
+    "Director": "Bong Joon-ho"
+  },
+  {
+    "Movie": "Léon: The Professional",
+    "Released_year": 1994,
+    "Rating": "8.6",
+    "Director": "Luc Besson"
+  },
+  {
+    "Movie": "Harakiri",
+    "Released_year": 1962,
+    "Rating": "8.7",
+    "Director": "Masaki Kobayashi"
+  },
+  {
+    "Movie": "The Usual Suspects",
+    "Released_year": 1995,
+    "Rating": "8.6",
+    "Director": "Bryan Singer"
+  },
+  {
+    "Movie": "The Lion King",
+    "Released_year": 1994,
+    "Rating": "8.5",
+    "Director": "Roger Allers"
+  },
+  {
+    "Movie": "The Pianist",
+    "Released_year": 2002,
+    "Rating": "8.5",
+    "Director": "Roman Polanski"
+  },
+  {
+    "Movie": "Terminator 2: Judgment Day",
+    "Released_year": 1991,
+    "Rating": "8.5",
+    "Director": "James Cameron"
+  },
+  {
+    "Movie": "Back to the Future",
+    "Released_year": 1985,
+    "Rating": "8.5",
+    "Director": "Robert Zemeckis"
+  },
+  {
+    "Movie": "American History X",
+    "Released_year": 1998,
+    "Rating": "8.5",
+    "Director": "Tony Kaye"
+  },
+  {
+    "Movie": "Modern Times",
+    "Released_year": 1936,
+    "Rating": "8.5",
+    "Director": "Charlie Chaplin"
+  },
+  {
+    "Movie": "Gladiator",
+    "Released_year": 2000,
+    "Rating": "8.5",
+    "Director": "Ridley Scott"
+  },
+  {
+    "Movie": "Psycho",
+    "Released_year": 1960,
+    "Rating": "8.5",
+    "Director": "Alfred Hitchcock"
+  },
+  {
+    "Movie": "The Departed",
+    "Released_year": 2006,
+    "Rating": "8.5",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "City Lights",
+    "Released_year": 1931,
+    "Rating": "8.5",
+    "Director": "Charlie Chaplin"
+  },
+  {
+    "Movie": "The Intouchables",
+    "Released_year": 2011,
+    "Rating": "8.5",
+    "Director": "Éric Toledano"
+  },
+  {
+    "Movie": "Whiplash",
+    "Released_year": 2014,
+    "Rating": "8.5",
+    "Director": "Damien Chazelle"
+  },
+  {
+    "Movie": "Grave of the Fireflies",
+    "Released_year": 1988,
+    "Rating": "8.5",
+    "Director": "Isao Takahata"
+  },
+  {
+    "Movie": "The Prestige",
+    "Released_year": 2006,
+    "Rating": "8.5",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "Once Upon a Time in the West",
+    "Released_year": 1968,
+    "Rating": "8.5",
+    "Director": "Sergio Leone"
+  },
+  {
+    "Movie": "Casablanca",
+    "Released_year": 1942,
+    "Rating": "8.5",
+    "Director": "Michael Curtiz"
+  },
+  {
+    "Movie": "Cinema Paradiso",
+    "Released_year": 1988,
+    "Rating": "8.5",
+    "Director": "Giuseppe Tornatore"
+  },
+  {
+    "Movie": "Rear Window",
+    "Released_year": 1954,
+    "Rating": "8.5",
+    "Director": "Alfred Hitchcock"
+  },
+  {
+    "Movie": "Alien",
+    "Released_year": 1979,
+    "Rating": "8.5",
+    "Director": "Ridley Scott"
+  },
+  {
+    "Movie": "Apocalypse Now",
+    "Released_year": 1979,
+    "Rating": "8.5",
+    "Director": "Francis Ford Coppola"
+  },
+  {
+    "Movie": "Memento",
+    "Released_year": 2000,
+    "Rating": "8.5",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "The Great Dictator",
+    "Released_year": 1940,
+    "Rating": "8.5",
+    "Director": "Charlie Chaplin"
+  },
+  {
+    "Movie": "Raiders of the Lost Ark",
+    "Released_year": 1981,
+    "Rating": "8.5",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Movie": "Django Unchained",
+    "Released_year": 2012,
+    "Rating": "8.4",
+    "Director": "Quentin Tarantino"
+  },
+  {
+    "Movie": "The Lives of Others",
+    "Released_year": 2006,
+    "Rating": "8.4",
+    "Director": "Florian Henckel von Donnersmarck"
+  },
+  {
+    "Movie": "Hamilton",
+    "Released_year": 2020,
+    "Rating": "Thomas Kail",
+    "Director": "Thomas Kail"
+  },
+  {
+    "Movie": "Paths of Glory",
+    "Released_year": 1957,
+    "Rating": "8.4",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "Joker",
+    "Released_year": 2019,
+    "Rating": "Todd Phillips",
+    "Director": "Todd Phillips"
+  },
+  {
+    "Movie": "WALL·E",
+    "Released_year": 2008,
+    "Rating": "8.4",
+    "Director": "Andrew Stanton"
+  },
+  {
+    "Movie": "The Shining",
+    "Released_year": 1980,
+    "Rating": "8.4",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "Avengers: Infinity War",
+    "Released_year": 2018,
+    "Rating": "8.5",
+    "Director": "Joe Russo"
+  },
+  {
+    "Movie": "Sunset Boulevard",
+    "Released_year": 1950,
+    "Rating": "8.4",
+    "Director": "Billy Wilder"
+  },
+  {
+    "Movie": "Witness for the Prosecution",
+    "Released_year": 1957,
+    "Rating": "8.4",
+    "Director": "Billy Wilder"
+  },
+  {
+    "Movie": "Oldboy",
+    "Released_year": 2003,
+    "Rating": "8.4",
+    "Director": "Park Chan-wook"
+  },
+  {
+    "Movie": "Spider-Man: Into the Spider-Verse",
+    "Released_year": 2018,
+    "Rating": "8.4",
+    "Director": "Peter Ramsey"
+  },
+  {
+    "Movie": "Princess Mononoke",
+    "Released_year": 1997,
+    "Rating": "8.4",
+    "Director": "Hayao Miyazaki"
+  },
+  {
+    "Movie": "Dr. Strangelove",
+    "Released_year": 1964,
+    "Rating": "8.4",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "The Dark Knight Rises",
+    "Released_year": 2012,
+    "Rating": "8.4",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "Once Upon a Time in America",
+    "Released_year": 1984,
+    "Rating": "8.4",
+    "Director": "Sergio Leone"
+  },
+  {
+    "Movie": "Your Name.",
+    "Released_year": 2016,
+    "Rating": "8.4",
+    "Director": "Makoto Shinkai"
+  },
+  {
+    "Movie": "Aliens",
+    "Released_year": 1986,
+    "Rating": "8.4",
+    "Director": "James Cameron"
+  },
+  {
+    "Movie": "Coco",
+    "Released_year": 2017,
+    "Rating": "8.4",
+    "Director": "Lee Unkrich"
+  },
+  {
+    "Movie": "Avengers: Endgame",
+    "Released_year": 2019,
+    "Rating": "8.4",
+    "Director": "Joe Russo"
+  },
+  {
+    "Movie": "Capernaum",
+    "Released_year": 2018,
+    "Rating": "Nadine Labaki",
+    "Director": "Nadine Labaki"
+  },
+  {
+    "Movie": "American Beauty",
+    "Released_year": 1999,
+    "Rating": "8.4",
+    "Director": "Sam Mendes"
+  },
+  {
+    "Movie": "Braveheart",
+    "Released_year": 1995,
+    "Rating": "8.4",
+    "Director": "Mel Gibson"
+  },
+  {
+    "Movie": "High and Low",
+    "Released_year": 1963,
+    "Rating": "8.4",
+    "Director": "Akira Kurosawa"
+  },
+  {
+    "Movie": "Das Boot",
+    "Released_year": 1981,
+    "Rating": "8.4",
+    "Director": "Wolfgang Petersen"
+  },
+  {
+    "Movie": "Toy Story",
+    "Released_year": 1995,
+    "Rating": "8.3",
+    "Director": "John Lasseter"
+  },
+  {
+    "Movie": "3 Idiots",
+    "Released_year": 2009,
+    "Rating": "8.4",
+    "Director": "Rajkumar Hirani"
+  },
+  {
+    "Movie": "Amadeus",
+    "Released_year": 1984,
+    "Rating": "8.3",
+    "Director": "Miloš Forman"
+  },
+  {
+    "Movie": "Inglourious Basterds",
+    "Released_year": 2009,
+    "Rating": "8.3",
+    "Director": "Quentin Tarantino"
+  },
+  {
+    "Movie": "Good Will Hunting",
+    "Released_year": 1997,
+    "Rating": "8.3",
+    "Director": "Gus Van Sant"
+  },
+  {
+    "Movie": "Return of the Jedi",
+    "Released_year": 1983,
+    "Rating": "8.3",
+    "Director": "Richard Marquand"
+  },
+  {
+    "Movie": "Like Stars on Earth",
+    "Released_year": 2007,
+    "Rating": "8.4",
+    "Director": "Aamir Khan"
+  },
+  {
+    "Movie": "Reservoir Dogs",
+    "Released_year": 1992,
+    "Rating": "8.3",
+    "Director": "Quentin Tarantino"
+  },
+  {
+    "Movie": "2001: A Space Odyssey",
+    "Released_year": 1968,
+    "Rating": "8.3",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "Requiem for a Dream",
+    "Released_year": 2000,
+    "Rating": "8.3",
+    "Director": "Darren Aronofsky"
+  },
+  {
+    "Movie": "The Hunt",
+    "Released_year": 2012,
+    "Rating": "8.3",
+    "Director": "Thomas Vinterberg"
+  },
+  {
+    "Movie": "Vertigo",
+    "Released_year": 1958,
+    "Rating": "8.3",
+    "Director": "Alfred Hitchcock"
+  },
+  {
+    "Movie": "M",
+    "Released_year": 1931,
+    "Rating": "8.3",
+    "Director": "Fritz Lang"
+  },
+  {
+    "Movie": "Eternal Sunshine of the Spotless Mind",
+    "Released_year": 2004,
+    "Rating": "8.3",
+    "Director": "Michel Gondry"
+  },
+  {
+    "Movie": "Citizen Kane",
+    "Released_year": 1941,
+    "Rating": "8.4",
+    "Director": "Orson Welles"
+  },
+  {
+    "Movie": "Dangal",
+    "Released_year": 2016,
+    "Rating": "8.5",
+    "Director": "Nitesh Tiwari"
+  },
+  {
+    "Movie": "Singin' in the Rain",
+    "Released_year": 1952,
+    "Rating": "8.3",
+    "Director": "Stanley Donen"
+  },
+  {
+    "Movie": "Bicycle Thieves",
+    "Released_year": 1948,
+    "Rating": "8.3",
+    "Director": "Vittorio De Sica"
+  },
+  {
+    "Movie": "The Kid",
+    "Released_year": 1921,
+    "Rating": "8.3",
+    "Director": "Charlie Chaplin"
+  },
+  {
+    "Movie": "Full Metal Jacket",
+    "Released_year": 1987,
+    "Rating": "8.3",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "Come and See",
+    "Released_year": 1985,
+    "Rating": "8.2",
+    "Director": "Elem Klimov"
+  },
+  {
+    "Movie": "Snatch",
+    "Released_year": 2000,
+    "Rating": "8.3",
+    "Director": "Guy Ritchie"
+  },
+  {
+    "Movie": "Ikiru",
+    "Released_year": 1952,
+    "Rating": "8.3",
+    "Director": "Akira Kurosawa"
+  },
+  {
+    "Movie": "North by Northwest",
+    "Released_year": 1959,
+    "Rating": "8.3",
+    "Director": "Alfred Hitchcock"
+  },
+  {
+    "Movie": "A Clockwork Orange",
+    "Released_year": 1971,
+    "Rating": "8.3",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "Scarface",
+    "Released_year": 1983,
+    "Rating": "8.3",
+    "Director": "Brian De Palma"
+  },
+  {
+    "Movie": "1917",
+    "Released_year": 2019,
+    "Rating": "Sam Mendes",
+    "Director": "Sam Mendes"
+  },
+  {
+    "Movie": "Taxi Driver",
+    "Released_year": 1976,
+    "Rating": "8.3",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "Incendies",
+    "Released_year": 2010,
+    "Rating": "8.2",
+    "Director": "Denis Villeneuve"
+  },
+  {
+    "Movie": "A Separation",
+    "Released_year": 2011,
+    "Rating": "8.3",
+    "Director": "Asghar Farhadi"
+  },
+  {
+    "Movie": "Toy Story 3",
+    "Released_year": 2010,
+    "Rating": "8.3",
+    "Director": "Lee Unkrich"
+  },
+  {
+    "Movie": "Lawrence of Arabia",
+    "Released_year": 1962,
+    "Rating": "8.3",
+    "Director": "David Lean"
+  },
+  {
+    "Movie": "The Sting",
+    "Released_year": 1973,
+    "Rating": "8.3",
+    "Director": "George Roy Hill"
+  },
+  {
+    "Movie": "Amélie",
+    "Released_year": 2001,
+    "Rating": "8.3",
+    "Director": "Jean-Pierre Jeunet"
+  },
+  {
+    "Movie": "Metropolis",
+    "Released_year": 1927,
+    "Rating": "8.3",
+    "Director": "Fritz Lang"
+  },
+  {
+    "Movie": "The Apartment",
+    "Released_year": 1960,
+    "Rating": "8.3",
+    "Director": "Billy Wilder"
+  },
+  {
+    "Movie": "For a Few Dollars More",
+    "Released_year": 1965,
+    "Rating": "8.3",
+    "Director": "Sergio Leone"
+  },
+  {
+    "Movie": "Double Indemnity",
+    "Released_year": 1944,
+    "Rating": "8.3",
+    "Director": "Billy Wilder"
+  },
+  {
+    "Movie": "To Kill a Mockingbird",
+    "Released_year": 1962,
+    "Rating": "8.3",
+    "Director": "Robert Mulligan"
+  },
+  {
+    "Movie": "Up",
+    "Released_year": 2009,
+    "Rating": "8.3",
+    "Director": "Pete Docter"
+  },
+  {
+    "Movie": "Indiana Jones and the Last Crusade",
+    "Released_year": 1989,
+    "Rating": "8.2",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Movie": "Heat",
+    "Released_year": 1995,
+    "Rating": "8.2",
+    "Director": "Michael Mann"
+  },
+  {
+    "Movie": "L.A. Confidential",
+    "Released_year": 1997,
+    "Rating": "8.3",
+    "Director": "Curtis Hanson"
+  },
+  {
+    "Movie": "Green Book",
+    "Released_year": 2018,
+    "Rating": "8.3",
+    "Director": "Peter Farrelly"
+  },
+  {
+    "Movie": "Die Hard",
+    "Released_year": 1988,
+    "Rating": "8.2",
+    "Director": "John McTiernan"
+  },
+  {
+    "Movie": "Monty Python and the Holy Grail",
+    "Released_year": 1975,
+    "Rating": "8.3",
+    "Director": "Terry Gilliam"
+  },
+  {
+    "Movie": "Batman Begins",
+    "Released_year": 2005,
+    "Rating": "8.3",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Movie": "Yojimbo",
+    "Released_year": 1961,
+    "Rating": "8.2",
+    "Director": "Akira Kurosawa"
+  },
+  {
+    "Movie": "Rashomon",
+    "Released_year": 1950,
+    "Rating": "8.2",
+    "Director": "Akira Kurosawa"
+  },
+  {
+    "Movie": "Downfall",
+    "Released_year": 2004,
+    "Rating": "8.2",
+    "Director": "Oliver Hirschbiegel"
+  },
+  {
+    "Movie": "Children of Heaven",
+    "Released_year": 1997,
+    "Rating": "8.3",
+    "Director": "Majid Majidi"
+  },
+  {
+    "Movie": "Unforgiven",
+    "Released_year": 1992,
+    "Rating": "8.2",
+    "Director": "Clint Eastwood"
+  },
+  {
+    "Movie": "Ran",
+    "Released_year": 1985,
+    "Rating": "8.2",
+    "Director": "Akira Kurosawa"
+  },
+  {
+    "Movie": "Some Like It Hot",
+    "Released_year": 1959,
+    "Rating": "8.2",
+    "Director": "Billy Wilder"
+  },
+  {
+    "Movie": "Howl's Moving Castle",
+    "Released_year": 2004,
+    "Rating": "8.2",
+    "Director": "Hayao Miyazaki"
+  },
+  {
+    "Movie": "All About Eve",
+    "Released_year": 1950,
+    "Rating": "8.3",
+    "Director": "Joseph L. Mankiewicz"
+  },
+  {
+    "Movie": "Casino",
+    "Released_year": 1995,
+    "Rating": "8.2",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "A Beautiful Mind",
+    "Released_year": 2001,
+    "Rating": "8.2",
+    "Director": "Ron Howard"
+  },
+  {
+    "Movie": "The Wolf of Wall Street",
+    "Released_year": 2013,
+    "Rating": "8.2",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "The Great Escape",
+    "Released_year": 1963,
+    "Rating": "8.2",
+    "Director": "John Sturges"
+  },
+  {
+    "Movie": "Pan's Labyrinth",
+    "Released_year": 2006,
+    "Rating": "8.2",
+    "Director": "Guillermo del Toro"
+  },
+  {
+    "Movie": "There Will Be Blood",
+    "Released_year": 2007,
+    "Rating": "8.1",
+    "Director": "Paul Thomas Anderson"
+  },
+  {
+    "Movie": "The Secret in Their Eyes",
+    "Released_year": 2009,
+    "Rating": "8.2",
+    "Director": "Juan José Campanella"
+  },
+  {
+    "Movie": "Lock, Stock and Two Smoking Barrels",
+    "Released_year": 1998,
+    "Rating": "8.2",
+    "Director": "Guy Ritchie"
+  },
+  {
+    "Movie": "Judgment at Nuremberg",
+    "Released_year": 1961,
+    "Rating": "8.2",
+    "Director": "Stanley Kramer"
+  },
+  {
+    "Movie": "Raging Bull",
+    "Released_year": 1980,
+    "Rating": "8.2",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "My Neighbor Totoro",
+    "Released_year": 1988,
+    "Rating": "8.2",
+    "Director": "Hayao Miyazaki"
+  },
+  {
+    "Movie": "The Treasure of the Sierra Madre",
+    "Released_year": 1948,
+    "Rating": "8.3",
+    "Director": "John Huston"
+  },
+  {
+    "Movie": "Dial M for Murder",
+    "Released_year": 1954,
+    "Rating": "8.2",
+    "Director": "Alfred Hitchcock"
+  },
+  {
+    "Movie": "Three Billboards Outside Ebbing, Missouri",
+    "Released_year": 2017,
+    "Rating": "8.2",
+    "Director": "Martin McDonagh"
+  },
+  {
+    "Movie": "Shutter Island",
+    "Released_year": 2010,
+    "Rating": "8.1",
+    "Director": "Martin Scorsese"
+  },
+  {
+    "Movie": "Chinatown",
+    "Released_year": 1974,
+    "Rating": "8.2",
+    "Director": "Roman Polanski"
+  },
+  {
+    "Movie": "The Gold Rush",
+    "Released_year": 1925,
+    "Rating": "8.2",
+    "Director": "Charlie Chaplin"
+  },
+  {
+    "Movie": "My Father and My Son",
+    "Released_year": 2005,
+    "Rating": "8.4",
+    "Director": "Çağan Irmak"
+  },
+  {
+    "Movie": "No Country for Old Men",
+    "Released_year": 2007,
+    "Rating": "8.1",
+    "Director": "Ethan Coen"
+  },
+  {
+    "Movie": "V for Vendetta",
+    "Released_year": 2006,
+    "Rating": "8.2",
+    "Director": "James McTeigue"
+  },
+  {
+    "Movie": "Inside Out",
+    "Released_year": 2015,
+    "Rating": "8.2",
+    "Director": "Pete Docter"
+  },
+  {
+    "Movie": "The Thing",
+    "Released_year": 1982,
+    "Rating": "8.1",
+    "Director": "John Carpenter"
+  },
+  {
+    "Movie": "The Elephant Man",
+    "Released_year": 1980,
+    "Rating": "8.2",
+    "Director": "David Lynch"
+  },
+  {
+    "Movie": "The Seventh Seal",
+    "Released_year": 1957,
+    "Rating": "8.2",
+    "Director": "Ingmar Bergman"
+  },
+  {
+    "Movie": "Warrior",
+    "Released_year": 2011,
+    "Rating": "8.2",
+    "Director": "Gavin O'Connor"
+  },
+  {
+    "Movie": "The Sixth Sense",
+    "Released_year": 1999,
+    "Rating": "8.1",
+    "Director": "M. Night Shyamalan"
+  },
+  {
+    "Movie": "Jurassic Park",
+    "Released_year": 1993,
+    "Rating": "8.1",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Movie": "Klaus",
+    "Released_year": 2019,
+    "Rating": "Sergio Pablos",
+    "Director": "Sergio Pablos"
+  },
+  {
+    "Movie": "Trainspotting",
+    "Released_year": 1996,
+    "Rating": "8.2",
+    "Director": "Danny Boyle"
+  },
+  {
+    "Movie": "The Truman Show",
+    "Released_year": 1998,
+    "Rating": "8.1",
+    "Director": "Peter Weir"
+  },
+  {
+    "Movie": "Gone with the Wind",
+    "Released_year": 1939,
+    "Rating": "8.2",
+    "Director": "Victor Fleming"
+  },
+  {
+    "Movie": "Finding Nemo",
+    "Released_year": 2003,
+    "Rating": "8.1",
+    "Director": "Andrew Stanton"
+  },
+  {
+    "Movie": "Stalker",
+    "Released_year": 1979,
+    "Rating": "8.1",
+    "Director": "Andrei Tarkovsky"
+  },
+  {
+    "Movie": "Wild Strawberries",
+    "Released_year": 1957,
+    "Rating": "8.2",
+    "Director": "Ingmar Bergman"
+  },
+  {
+    "Movie": "Kill Bill: Vol. 1",
+    "Released_year": 2003,
+    "Rating": "8.1",
+    "Director": "Quentin Tarantino"
+  },
+  {
+    "Movie": "Memories of Murder",
+    "Released_year": 2003,
+    "Rating": "8.1",
+    "Director": "Bong Joon-ho"
+  },
+  {
+    "Movie": "Blade Runner",
+    "Released_year": 1982,
+    "Rating": "8.2",
+    "Director": "Ridley Scott"
+  },
+  {
+    "Movie": "The Bridge on the River Kwai",
+    "Released_year": 1957,
+    "Rating": "8.2",
+    "Director": "David Lean"
+  },
+  {
+    "Movie": "Fargo",
+    "Released_year": 1996,
+    "Rating": "8.1",
+    "Director": "Joel Coen"
+  },
+  {
+    "Movie": "Room",
+    "Released_year": 2015,
+    "Rating": "8.2",
+    "Director": "Lenny Abrahamson"
+  },
+  {
+    "Movie": "Wild Tales",
+    "Released_year": 2014,
+    "Rating": "8.1",
+    "Director": "Damián Szifron"
+  },
+  {
+    "Movie": "Gran Torino",
+    "Released_year": 2008,
+    "Rating": "8.1",
+    "Director": "Clint Eastwood"
+  },
+  {
+    "Movie": "Tokyo Story",
+    "Released_year": 1953,
+    "Rating": "8.2",
+    "Director": "Yasujirō Ozu"
+  },
+  {
+    "Movie": "The Third Man",
+    "Released_year": 1949,
+    "Rating": "8.2",
+    "Director": "Carol Reed"
+  },
+  {
+    "Movie": "On the Waterfront",
+    "Released_year": 1954,
+    "Rating": "8.2",
+    "Director": "Elia Kazan"
+  },
+  {
+    "Movie": "The Deer Hunter",
+    "Released_year": 1978,
+    "Rating": "8.1",
+    "Director": "Michael Cimino"
+  },
+  {
+    "Movie": "In the Name of the Father",
+    "Released_year": 1993,
+    "Rating": "8.1",
+    "Director": "Jim Sheridan"
+  },
+  {
+    "Movie": "Mary and Max",
+    "Released_year": 2009,
+    "Rating": "8.1",
+    "Director": "Adam Elliot"
+  },
+  {
+    "Movie": "The Grand Budapest Hotel",
+    "Released_year": 2014,
+    "Rating": "8.1",
+    "Director": "Wes Anderson"
+  },
+  {
+    "Movie": "Before Sunrise",
+    "Released_year": 1995,
+    "Rating": "8.1",
+    "Director": "Richard Linklater"
+  },
+  {
+    "Movie": "Catch Me If You Can",
+    "Released_year": 2002,
+    "Rating": "8.1",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Movie": "Gone Girl",
+    "Released_year": 2014,
+    "Rating": "8.1",
+    "Director": "David Fincher"
+  },
+  {
+    "Movie": "Hacksaw Ridge",
+    "Released_year": 2016,
+    "Rating": "8.1",
+    "Director": "Mel Gibson"
+  },
+  {
+    "Movie": "Prisoners",
+    "Released_year": 2013,
+    "Rating": "8.1",
+    "Director": "Denis Villeneuve"
+  },
+  {
+    "Movie": "Persona",
+    "Released_year": 1966,
+    "Rating": "8.1",
+    "Director": "Ingmar Bergman"
+  },
+  {
+    "Movie": "Andhadhun",
+    "Released_year": 2018,
+    "Rating": "Sriram Raghavan",
+    "Director": "Sriram Raghavan"
+  },
+  {
+    "Movie": "Sherlock Jr.",
+    "Released_year": 1924,
+    "Rating": "8.2",
+    "Director": "Buster Keaton"
+  },
+  {
+    "Movie": "The Big Lebowski",
+    "Released_year": 1998,
+    "Rating": "8.1",
+    "Director": "Joel Coen"
+  },
+  {
+    "Movie": "Barry Lyndon",
+    "Released_year": 1975,
+    "Rating": "8.1",
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "Movie": "To Be or Not to Be",
+    "Released_year": 1942,
+    "Rating": "8.2",
+    "Director": "Ernst Lubitsch"
+  },
+  {
+    "Movie": "The General",
+    "Released_year": 1926,
+    "Rating": "8.2",
+    "Director": "Clyde Bruckman"
+  },
+  {
+    "Movie": "How to Train Your Dragon",
+    "Released_year": 2010,
+    "Rating": "8.1",
+    "Director": "Chris Sanders"
+  },
+  {
+    "Movie": "Ford v Ferrari",
+    "Released_year": 2019,
+    "Rating": "James Mangold",
+    "Director": "James Mangold"
+  },
+  {
+    "Movie": "Autumn Sonata",
+    "Released_year": 1978,
+    "Rating": "8.3",
+    "Director": "Ingmar Bergman"
+  },
+  {
+    "Movie": "12 Years a Slave",
+    "Released_year": 2013,
+    "Rating": "8.1",
+    "Director": "Steve McQueen"
+  },
+  {
+    "Movie": "The Bandit",
+    "Released_year": 1996,
+    "Rating": "8.3",
+    "Director": "Yavuz Turgul"
+  },
+  {
+    "Movie": "Mr. Smith Goes to Washington",
+    "Released_year": 1939,
+    "Rating": "8.2",
+    "Director": "Frank Capra"
+  },
+  {
+    "Movie": "Anand",
+    "Released_year": 1971,
+    "Rating": "8.8",
+    "Director": "Hrishikesh Mukherjee"
+  },
+  {
+    "Movie": "Mad Max: Fury Road",
+    "Released_year": 2015,
+    "Rating": "8.1",
+    "Director": "George Miller"
+  },
+  {
+    "Movie": "Dead Poets Society",
+    "Released_year": 1989,
+    "Rating": "8.1",
+    "Director": "Peter Weir"
+  },
+  {
+    "Movie": "Ratsasan",
+    "Released_year": 2018,
+    "Rating": "8.5",
+    "Director": "Ram Kumar"
+  },
+  {
+    "Movie": "Million Dollar Baby",
+    "Released_year": 2004,
+    "Rating": "8.1",
+    "Director": "Clint Eastwood"
+  },
+  {
+    "Movie": "Stand by Me",
+    "Released_year": 1986,
+    "Rating": "8.1",
+    "Director": "Rob Reiner"
+  },
+  {
+    "Movie": "Harry Potter and the Deathly Hallows: Part 2",
+    "Released_year": 2011,
+    "Rating": "8.1",
+    "Director": "David Yates"
+  },
+  {
+    "Movie": "Network",
+    "Released_year": 1976,
+    "Rating": "8.1",
+    "Director": "Sidney Lumet"
+  },
+  {
+    "Movie": "Ben-Hur",
+    "Released_year": 1959,
+    "Rating": "8.1",
+    "Director": "William Wyler"
+  },
+  {
+    "Movie": "Hachi: A Dog's Tale",
+    "Released_year": 2009,
+    "Rating": "8.1",
+    "Director": "Lasse Hallström"
+  },
+  {
+    "Movie": "Cool Hand Luke",
+    "Released_year": 1967,
+    "Rating": "8.1",
+    "Director": "Stuart Rosenberg"
+  },
+  {
+    "Movie": "The Handmaiden",
+    "Released_year": 2016,
+    "Rating": "8.1",
+    "Director": "Park Chan-wook"
+  },
+  {
+    "Movie": "Logan",
+    "Released_year": 2017,
+    "Rating": "8.1",
+    "Director": "James Mangold"
+  },
+  {
+    "Movie": "Platoon",
+    "Released_year": 1986,
+    "Rating": "8.1",
+    "Director": "Oliver Stone"
+  },
+  {
+    "Movie": "Into the Wild",
+    "Released_year": 2007,
+    "Rating": "8.1",
+    "Director": "Sean Penn"
+  },
+  {
+    "Movie": "Rush",
+    "Released_year": 2013,
+    "Rating": "8.1",
+    "Director": "Ron Howard"
+  },
+  {
+    "Movie": "The Wages of Fear",
+    "Released_year": 1953,
+    "Rating": "8.1",
+    "Director": "Henri-Georges Clouzot"
+  },
+  {
+    "Movie": "La Haine",
+    "Released_year": 1995,
+    "Rating": "8.1",
+    "Director": "Mathieu Kassovitz"
+  },
+  {
+    "Movie": "Life of Brian",
+    "Released_year": 1979,
+    "Rating": "8.1",
+    "Director": "Terry Jones"
+  },
+  {
+    "Movie": "The 400 Blows",
+    "Released_year": 1959,
+    "Rating": "8.1",
+    "Director": "François Truffaut"
+  },
+  {
+    "Movie": "Soul",
+    "Released_year": 2020,
+    "Rating": "8.1",
+    "Director": "Pete Docter"
+  },
+  {
+    "Movie": "The Passion of Joan of Arc",
+    "Released_year": 1928,
+    "Rating": "8.2",
+    "Director": "Carl Theodor Dreyer"
+  },
+  {
+    "Movie": "Spotlight",
+    "Released_year": 2015,
+    "Rating": "8.1",
+    "Director": "Tom McCarthy"
+  },
+  {
+    "Movie": "Hotel Rwanda",
+    "Released_year": 2004,
+    "Rating": "8.1",
+    "Director": "Terry George"
+  },
+  {
+    "Movie": "Amores Perros",
+    "Released_year": 2000,
+    "Rating": "8.1",
+    "Director": "Alejandro González Iñárritu"
+  },
+  {
+    "Movie": "Gangs of Wasseypur - Part 1",
+    "Released_year": 2012,
+    "Rating": "8.2",
+    "Director": "Anurag Kashyap"
+  },
+  {
+    "Movie": "Andrei Rublev",
+    "Released_year": 1966,
+    "Rating": "8.2",
+    "Director": "Andrei Tarkovsky"
+  },
+  {
+    "Movie": "Monsters, Inc.",
+    "Released_year": 2001,
+    "Rating": "8.1",
+    "Director": "Pete Docter"
+  },
+  {
+    "Movie": "Rocky",
+    "Released_year": 1976,
+    "Rating": "8.1",
+    "Director": "John G. Avildsen"
+  },
+  {
+    "Movie": "Nausicaä of the Valley of the Wind",
+    "Released_year": 1984,
+    "Rating": "8.1",
+    "Director": "Hayao Miyazaki"
+  },
+  {
+    "Movie": "Rebecca",
+    "Released_year": 1940,
+    "Rating": "8.1",
+    "Director": "Alfred Hitchcock"
+  },
+  {
+    "Movie": "Time of the Gypsies",
+    "Released_year": 1988,
+    "Rating": "8.2",
+    "Director": "Emir Kusturica"
+  },
+  {
+    "Movie": "Before Sunset",
+    "Released_year": 2004,
+    "Rating": "8.1",
+    "Director": "Richard Linklater"
+  },
+  {
+    "Movie": "In the Mood for Love",
+    "Released_year": 2000,
+    "Rating": "8.1",
+    "Director": "Wong Kar-wai"
+  },
+  {
+    "Movie": "Rififi",
+    "Released_year": 1955,
+    "Rating": "8.2",
+    "Director": "Jules Dassin"
+  },
+  {
+    "Movie": "Rang De Basanti",
+    "Released_year": 2006,
+    "Rating": "8.2",
+    "Director": "Rakeysh Omprakash Mehra"
+  },
+  {
+    "Movie": "Paris, Texas",
+    "Released_year": 1984,
+    "Rating": "8.1",
+    "Director": "Wim Wenders"
+  },
+  {
+    "Movie": "Drishyam",
+    "Released_year": 2013,
+    "Rating": "8.8",
+    "Director": "Jeethu Joseph"
+  },
+  {
+    "Movie": "Portrait of a Lady on Fire",
+    "Released_year": 2019,
+    "Rating": "8.1",
+    "Director": "Céline Sciamma"
+  },
+  {
+    "Movie": "It Happened One Night",
+    "Released_year": 1934,
+    "Rating": "8.1",
+    "Director": "Frank Capra"
+  },
+  {
+    "Movie": "A Silent Voice: The Movie",
+    "Released_year": 2016,
+    "Rating": "8.2",
+    "Director": "Naoko Yamada"
+  },
+  {
+    "Movie": "The Invisible Guest",
+    "Released_year": 2017,
+    "Rating": "8.1",
+    "Director": "Oriol Paulo"
+  },
+  {
+    "Movie": "Neon Genesis Evangelion: The End of Evangelion",
+    "Released_year": 1997,
+    "Rating": "8.1",
+    "Director": "Kazuya Tsurumaki"
+  },
+  {
+    "Movie": "The Battle of Algiers",
+    "Released_year": 1966,
+    "Rating": "8.1",
+    "Director": "Gillo Pontecorvo"
+  },
+  {
+    "Movie": "Tangerines",
+    "Released_year": 2013,
+    "Rating": "8.2",
+    "Director": "Zaza Urushadze"
+  },
+  {
+    "Movie": "Three Colors: Red",
+    "Released_year": 1994,
+    "Rating": "8.1",
+    "Director": "Krzysztof Kieślowski"
+  }
+]
